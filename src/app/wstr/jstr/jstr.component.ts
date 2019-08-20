@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './jstr.component.html',
   styleUrls: ['./jstr.component.css']
 })
-export class JstrComponent implements OnInit {
+export class WstrComponent implements OnInit {
 
   constructor() { }
 
